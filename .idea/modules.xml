@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstract_Factory_Pattern/Abstract_Factory_Pattern.iml" filepath="$PROJECT_DIR$/Abstract_Factory_Pattern/Abstract_Factory_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter_Pattern/Adapter_Pattern.iml" filepath="$PROJECT_DIR$/Adapter_Pattern/Adapter_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_Pattern/Builder_Pattern.iml" filepath="$PROJECT_DIR$/Builder_Pattern/Builder_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite_Pattern/Composite_Pattern.iml" filepath="$PROJECT_DIR$/Composite_Pattern/Composite_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design_Pattern.iml" filepath="$PROJECT_DIR$/Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory_Pattern/Factory_Pattern.iml" filepath="$PROJECT_DIR$/Factory_Pattern/Factory_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filter_Pattern/Filter_Pattern.iml" filepath="$PROJECT_DIR$/Filter_Pattern/Filter_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype_Pattern/Prototype_Pattern.iml" filepath="$PROJECT_DIR$/Prototype_Pattern/Prototype_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton_Pattern/Singleton_Pattern.iml" filepath="$PROJECT_DIR$/Singleton_Pattern/Singleton_Pattern.iml" />
     </modules>
